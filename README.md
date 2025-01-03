@@ -1,0 +1,2 @@
+# kiwiirc
+Kiwiirc plugins
